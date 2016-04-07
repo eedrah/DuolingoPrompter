@@ -1,0 +1,19 @@
+{
+  "name": "duolingo-prompter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eedrah/DuolingoPrompter.git"
+  },
+  "author": "eedrah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eedrah/DuolingoPrompter/issues"
+  },
+  "homepage": "https://github.com/eedrah/DuolingoPrompter#readme"
+}
