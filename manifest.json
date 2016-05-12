@@ -6,7 +6,9 @@
   "version": "1.0",
 
   "permissions": [
-    "https://www.duolingo.com/*"
+    "alarms",
+    "https://www.duolingo.com/*",
+    "tabs"
   ],
   "content_scripts": [{
     "matches": ["https://www.duolingo.com/*"],
